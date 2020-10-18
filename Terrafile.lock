@@ -1,0 +1,6 @@
+---
+aks:
+  source: Azure/aks/azurerm
+  type: registry
+  url: https://github.com/Azure/terraform-azurerm-aks
+  sha: 9cb930a5e239ca8060893274d68128f035a40081
